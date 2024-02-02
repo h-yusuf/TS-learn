@@ -1,5 +1,7 @@
-const first = useRef(second)
+
+const first = () => {
+
+}
 const asdas = {
-asdjkashd(asdasdasdadadadadaASAasadAas)
-anasdaskd()
+first
 }
