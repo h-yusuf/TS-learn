@@ -1,21 +1,3 @@
-const addingfile = 'username'
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
-console.log(addingfile);
+username = 'useState lebih simple'
+
+const nama = username
