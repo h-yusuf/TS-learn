@@ -3,3 +3,8 @@ interface users {
     alamat:string,
     nikah:boolean
 }
+
+
+function  useee() {
+    nama:'asdasd'
+}
