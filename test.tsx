@@ -2,6 +2,6 @@
 const first = () => {
 
 }
-const asdas = {
+const alamaak = {
 first
 }
